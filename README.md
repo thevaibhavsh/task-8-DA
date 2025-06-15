@@ -99,8 +99,6 @@ This project analyzes the **Superstore Sales** dataset using Power BI to create 
 
 ---
 
----
-
 ## Learning Outcome
 - Gained hands-on experience in designing professional dashboards using Power BI
 - Learned to clean and transform data using Power Query Editor
